@@ -1,0 +1,31 @@
+Lec-1(technical guftgu)
+------------------------
+>>aws devops-is having its own tool,code commit,code deploy,code star,code 
+           code pipeline
+
+>>azure devops-azure repos,artifact
+
+>>devops-jenkins,maven,docker,ansible,kubernetes--open source
+
+Development team     Operations team
+developer            deploy-package instalation --ansible/chef
+build                 maintainance
+test                  monitoring
+quality assurance
+
+Devops stages
+perpous of devops--implementing automation at each & every stage of SDLC process.
+
+------Version control-------------continous integration--------------(continous testing)-----continous delivery-------------continous deployemnt-------------continous monitoring
+(maintain different version       (compile,validate,code review,                             (deploying the build          (deploying the app to the
+  of code-git)                         unit testing,integration testing)                      app to the test server)       production server for delivery/release)
+                                          jenkins,maven,
+waterfall methodology-step by step
+agile (build short & buidd often) -works on sprints & following scrum framework
+
+devops-development +operation--following the agile method only but advance version of it
+
+
+
+scrnnote-lec1
+----------------------------------------------------------------------------------------------------------------------------------------------------------
